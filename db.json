@@ -1,0 +1,41 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "category": "animal welfare",
+      "title": "Frenz of bunz",
+      "description": "🐰 an frenz",
+      "location": "Zoom - stay safe",
+      "pets": 1,
+      "extras": {
+        "catering": true,
+        "music": true
+      }
+    },
+    {
+      "category": "education",
+      "title": "learn vue 3 form",
+      "description": "how to build form component",
+      "location": "vuemastery.com",
+      "pets": 0,
+      "extras": {
+        "catering": false,
+        "music": false
+      },
+      "id": 2
+    },
+    {
+      "category": "education",
+      "title": "Learn javascript and vuejs",
+      "description": "vuejs is so powerful",
+      "location": "vuemastery.com",
+      "pets": 0,
+      "extras": {
+        "catering": false,
+        "music": false
+      },
+      "petsagain": 1,
+      "id": 3
+    }
+  ]
+}
